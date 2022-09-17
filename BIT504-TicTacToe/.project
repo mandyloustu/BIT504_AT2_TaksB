@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BIT504-TicTacToe</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Board.java</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/Board.java</location>
+		</link>
+		<link>
+			<name>src/Cell.class</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/Cell.class</location>
+		</link>
+		<link>
+			<name>src/Cell.java</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/Cell.java</location>
+		</link>
+		<link>
+			<name>src/GameMain.class</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/GameMain.class</location>
+		</link>
+		<link>
+			<name>src/GameMain.java</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/GameMain.java</location>
+		</link>
+		<link>
+			<name>src/GameState.class</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/GameState.class</location>
+		</link>
+		<link>
+			<name>src/GameState.java</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/GameState.java</location>
+		</link>
+		<link>
+			<name>src/Player.class</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/Player.class</location>
+		</link>
+		<link>
+			<name>src/Player.java</name>
+			<type>1</type>
+			<location>/Volumes/Seagate Expansion/Open Polytechnic - Diploma in Web Design + Dev/BIT504 - Programming 1/Assignment 2/HintModified/Player.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
